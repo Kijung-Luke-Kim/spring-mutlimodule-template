@@ -1,0 +1,5 @@
+rootProject.name = 'spring-multimodule-template'
+
+include 'board-graphql-api'
+include 'common-library'
+
